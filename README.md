@@ -1,4 +1,4 @@
-# GeocompFinal
+# NYC UHI(Urban Heat Island) analysis
 LST_to_C.py – Converts raw LST raster values to Celsius and exports the result.
 
 ndvi_process.py – Computes NDVI from red/NIR bands and saves the output raster.
